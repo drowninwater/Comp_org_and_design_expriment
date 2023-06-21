@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jun 21 13:56:01 2023
+# Process ID: 18428
+# Current directory: D:/Inclass/B_III/cs_org/vivado_project/class02/class02.runs/synth_1
+# Command line: vivado.exe -log test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test.tcl
+# Log file: D:/Inclass/B_III/cs_org/vivado_project/class02/class02.runs/synth_1/test.vds
+# Journal file: D:/Inclass/B_III/cs_org/vivado_project/class02/class02.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source test.tcl -notrace
